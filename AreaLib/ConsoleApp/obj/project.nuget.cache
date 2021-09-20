@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+wyz2utejTjYWcsJETehpqz6zttPxrLYuPZOO4qIBrtFoSVCBlRvGvokmaU9b91SbpQv80yoslWWt60innaqWQ==",
+  "dgSpecHash": "XX+8DJBY9tPGgDJVzS0m3Nx5xyRmkQiT0pnQL3ZYncb4cSchBczvcBvyQgqIlAH9IEqChFhpT4XPyTOxWRHNrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user\\Desktop\\AreaLib\\ConsoleApp\\ConsoleApp.csproj",
+  "projectFilePath": "C:\\Users\\user\\Source\\Repos\\test_task\\AreaLib\\ConsoleApp\\ConsoleApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\Desktop\\AreaLib\\AreaLib\\AreaLib.csproj",
+      "projectUniqueName": "C:\\Users\\user\\Source\\Repos\\test_task\\AreaLib\\AreaLib\\AreaLib.csproj",
       "projectName": "AreaLib",
-      "projectPath": "C:\\Users\\user\\Desktop\\AreaLib\\AreaLib\\AreaLib.csproj",
+      "projectPath": "C:\\Users\\user\\Source\\Repos\\test_task\\AreaLib\\AreaLib\\AreaLib.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\Desktop\\AreaLib\\AreaLib\\obj\\",
+      "outputPath": "C:\\Users\\user\\Source\\Repos\\test_task\\AreaLib\\AreaLib\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

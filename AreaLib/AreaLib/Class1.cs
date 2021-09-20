@@ -57,4 +57,19 @@ namespace AreaLib
         }
         
     }
+    public class Class2
+    {
+        public Class2()
+        {
+        }
+        public bool IsPositive(int x) {
+            if (x > 0)
+            {
+                return true;
+            }
+            else { 
+                return false;
+            }
+        }
+    }
 }

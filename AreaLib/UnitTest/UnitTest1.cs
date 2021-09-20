@@ -90,4 +90,25 @@ namespace UnitTest
             Assert.AreEqual(ans, 0.4330127018922193);
         }
     }
+
+    [TestClass]
+    public class UnitTest2
+    {
+        [TestMethod]
+        public void TestClass1()
+        {
+            Class2 test = new Class2();
+            bool ans = test.IsPositive(2);
+            Assert.AreEqual(ans, true);
+        }
+        /*
+        [TestMethod]
+        public void TestCLass2()
+        {
+            Class2 test = new Class2();
+            bool ans = test.IsEqual(-2);
+            Assert.AreEqual(ans, true);
+        }
+        */
+    }
 }
